@@ -1,14 +1,6 @@
 {
   "admin_products": [
     {
-      "id": 1,
-      "name": "MacBook Pro 16\"",
-      "price": 12999,
-      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&h=500&fit=crop",
-      "description": "Laptop profissional com chip M3 Pro, 16GB RAM, 1TB SSD",
-      "status": "activated"
-    },
-    {
       "id": 2,
       "name": "iPhone 15 Pro",
       "price": 8999,
@@ -137,48 +129,6 @@
       "password": "123",
       "role": "tenant",
       "token": "token-tenant"
-    },
-    {
-      "id": 1762008534577,
-      "email": "admin1@test.com",
-      "password": "1234567890",
-      "role": "admin",
-      "token": "token-admin-1762008534577"
-    },
-    {
-      "id": 1762031777419,
-      "email": "tt@tt.com",
-      "password": "1234567890",
-      "role": "tenant",
-      "token": "token-tenant-1762031777419"
-    },
-    {
-      "id": 1762033079849,
-      "email": "kk@kk.com",
-      "password": "123456",
-      "role": "admin",
-      "token": "token-admin-1762033079849"
-    },
-    {
-      "id": 1762033433085,
-      "email": "213@kk.com",
-      "password": "1234567890",
-      "role": "admin",
-      "token": "token-admin-1762033433085"
-    },
-    {
-      "id": 1762034318027,
-      "email": "ii@ii.com",
-      "password": "1234567",
-      "role": "admin",
-      "token": "token-admin-1762034318027"
-    },
-    {
-      "id": 1762195645040,
-      "email": "yy@yy.com",
-      "password": "7654321",
-      "role": "admin",
-      "token": "token-admin-1762195645040"
     }
   ]
 }
