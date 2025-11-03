@@ -1,0 +1,164 @@
+{
+  "admin_products": [
+    {
+      "id": 1,
+      "name": "Monitor",
+      "price": 1500,
+      "status": "activated"
+    },
+    {
+      "id": 2,
+      "name": "Monitor",
+      "price": 1500,
+      "status": "disabled"
+    },
+    {
+      "id": 3,
+      "name": "Monitor",
+      "price": 1500,
+      "status": "disabled"
+    },
+    {
+      "id": 4,
+      "name": "Monitor",
+      "price": 1500,
+      "status": "disabled"
+    },
+    {
+      "id": 5,
+      "name": "Monitor",
+      "price": 1500,
+      "status": "disabled"
+    },
+    {
+      "id": 6,
+      "name": "Monitor",
+      "price": 1500,
+      "status": "disabled"
+    },
+    {
+      "id": 7,
+      "name": "Monitor",
+      "price": 1500,
+      "status": "activated"
+    },
+    {
+      "id": 8,
+      "name": "Monitor",
+      "price": 1500,
+      "status": "activated"
+    },
+    {
+      "id": 9,
+      "name": "Monitor",
+      "price": 1500,
+      "status": "disabled"
+    },
+    {
+      "id": 10,
+      "name": "Monitor",
+      "price": 1500,
+      "status": "activated"
+    },
+    {
+      "id": 11,
+      "name": "Monitor",
+      "price": 1500,
+      "status": "disabled"
+    },
+    {
+      "id": 12,
+      "name": "Monitor",
+      "price": 1500,
+      "status": "activated"
+    },
+    {
+      "name": "jjjjj",
+      "price": 230,
+      "image": "",
+      "description": "",
+      "status": "activated",
+      "id": 3
+    },
+    {
+      "name": "uuuuuuuu",
+      "price": 20,
+      "image": "https://media.istockphoto.com/id/1157106624/pt/foto/all-your-necessities-stored-in-one-place.jpg?s=612x612&w=0&k=20&c=QADz-fF7X_vN3fh4CabC8Xsw0zGVNQret6gZJozlw2o=",
+      "description": "",
+      "status": "disabled",
+      "id": 13
+    }
+  ],
+  "tenant_products": [
+    {
+      "id": 1,
+      "name": "Mouse",
+      "price": 150,
+      "status": "activated"
+    },
+    {
+      "id": 2,
+      "name": "Teclado",
+      "price": 250,
+      "status": "disabled"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "email": "admin@test.com",
+      "password": "123",
+      "role": "admin",
+      "token": "token-admin"
+    },
+    {
+      "id": 2,
+      "email": "tenant@test.com",
+      "password": "123",
+      "role": "tenant",
+      "token": "token-tenant"
+    },
+    {
+      "id": 1762008534577,
+      "email": "admin1@test.com",
+      "password": "1234567890",
+      "role": "admin",
+      "token": "token-admin-1762008534577"
+    },
+    {
+      "id": 1762031777419,
+      "email": "tt@tt.com",
+      "password": "1234567890",
+      "role": "tenant",
+      "token": "token-tenant-1762031777419"
+    },
+    {
+      "id": 1762033079849,
+      "email": "kk@kk.com",
+      "password": "123456",
+      "role": "admin",
+      "token": "token-admin-1762033079849"
+    },
+    {
+      "id": 1762033433085,
+      "email": "213@kk.com",
+      "password": "1234567890",
+      "role": "admin",
+      "token": "token-admin-1762033433085"
+    },
+    {
+      "id": 1762034318027,
+      "email": "ii@ii.com",
+      "password": "1234567",
+      "role": "admin",
+      "token": "token-admin-1762034318027"
+    },
+    {
+      "id": 1762195645040,
+      "email": "yy@yy.com",
+      "password": "7654321",
+      "role": "admin",
+      "token": "token-admin-1762195645040"
+    }
+  ]
+}

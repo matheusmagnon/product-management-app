@@ -1,0 +1,7 @@
+{
+  "/admin/products": "/admin_products",
+  "/admin/products/:id": "/admin_products/:id",
+  "/tenant/products": "/tenant_products",
+  "/tenant/products/:id": "/tenant_products/:id",
+  "/login": "/login"
+}
