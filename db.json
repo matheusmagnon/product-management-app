@@ -2,105 +2,125 @@
   "admin_products": [
     {
       "id": 1,
-      "name": "Monitor",
-      "price": 1500,
+      "name": "MacBook Pro 16\"",
+      "price": 12999,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&h=500&fit=crop",
+      "description": "Laptop profissional com chip M3 Pro, 16GB RAM, 1TB SSD",
       "status": "activated"
     },
     {
       "id": 2,
-      "name": "Monitor",
-      "price": 1500,
-      "status": "disabled"
+      "name": "iPhone 15 Pro",
+      "price": 8999,
+      "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500&h=500&fit=crop",
+      "description": "Smartphone flagship com câmera de 48MP e titanium",
+      "status": "activated"
     },
     {
       "id": 3,
-      "name": "Monitor",
-      "price": 1500,
+      "name": "iPad Air",
+      "price": 5999,
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&h=500&fit=crop",
+      "description": "Tablet versátil com chip M1 e tela Liquid Retina",
       "status": "disabled"
     },
     {
       "id": 4,
-      "name": "Monitor",
-      "price": 1500,
-      "status": "disabled"
+      "name": "Apple Watch Series 9",
+      "price": 3999,
+      "image": "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?w=500&h=500&fit=crop",
+      "description": "Smartwatch com GPS, sempre na tela e saúde avançada",
+      "status": "activated"
     },
     {
       "id": 5,
-      "name": "Monitor",
-      "price": 1500,
-      "status": "disabled"
+      "name": "AirPods Pro",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=500&h=500&fit=crop",
+      "description": "Fones com cancelamento ativo de ruído e áudio espacial",
+      "status": "activated"
     },
     {
       "id": 6,
-      "name": "Monitor",
-      "price": 1500,
+      "name": "Sony WH-1000XM5",
+      "price": 2299,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "description": "Fones over-ear com cancelamento de ruído líder",
       "status": "disabled"
     },
     {
       "id": 7,
-      "name": "Monitor",
-      "price": 1500,
+      "name": "Samsung Odyssey G9",
+      "price": 6999,
+      "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=500&h=500&fit=crop",
+      "description": "Monitor curvo 49\" QLED 240Hz para gaming",
       "status": "activated"
     },
     {
       "id": 8,
-      "name": "Monitor",
-      "price": 1500,
-      "status": "activated"
+      "name": "Logitech MX Keys",
+      "price": 899,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&h=500&fit=crop",
+      "description": "Teclado sem fio iluminado para produtividade",
+      "status": "disabled"
     },
     {
       "id": 9,
-      "name": "Monitor",
-      "price": 1500,
+      "name": "Logitech MX Master 3S",
+      "price": 699,
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&h=500&fit=crop",
+      "description": "Mouse ergonômico com scroll MagSpeed",
       "status": "disabled"
     },
     {
       "id": 10,
-      "name": "Monitor",
-      "price": 1500,
-      "status": "activated"
-    },
-    {
-      "id": 11,
-      "name": "Monitor",
-      "price": 1500,
+      "name": "Sony A7 IV",
+      "price": 15999,
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&h=500&fit=crop",
+      "description": "Câmera mirrorless full-frame 33MP",
       "status": "disabled"
     },
     {
-      "id": 12,
-      "name": "Monitor",
-      "price": 1500,
+      "id": 11,
+      "name": "Dell XPS 13",
+      "price": 8499,
+      "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=500&h=500&fit=crop",
+      "description": "Ultrabook compacto com tela InfinityEdge",
       "status": "activated"
     },
     {
-      "name": "jjjjj",
-      "price": 230,
-      "image": "",
-      "description": "",
-      "status": "activated",
-      "id": 3
-    },
-    {
-      "name": "uuuuuuuu",
-      "price": 20,
-      "image": "https://media.istockphoto.com/id/1157106624/pt/foto/all-your-necessities-stored-in-one-place.jpg?s=612x612&w=0&k=20&c=QADz-fF7X_vN3fh4CabC8Xsw0zGVNQret6gZJozlw2o=",
-      "description": "",
-      "status": "disabled",
-      "id": 13
+      "id": 12,
+      "name": "Nintendo Switch OLED",
+      "price": 2799,
+      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=500&h=500&fit=crop",
+      "description": "Console híbrido com tela OLED de 7 polegadas",
+      "status": "disabled"
     }
   ],
   "tenant_products": [
     {
       "id": 1,
-      "name": "Mouse",
-      "price": 150,
+      "name": "Mouse Gamer",
+      "price": 299,
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500&h=500&fit=crop",
+      "description": "Mouse RGB com DPI ajustável",
       "status": "activated"
     },
     {
       "id": 2,
-      "name": "Teclado",
-      "price": 250,
+      "name": "Teclado Mecânico",
+      "price": 599,
+      "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=500&h=500&fit=crop",
+      "description": "Teclado mecânico com switches Blue",
       "status": "disabled"
+    },
+    {
+      "id": 3,
+      "name": "Webcam 4K",
+      "price": 799,
+      "image": "https://images.unsplash.com/photo-1590658165737-15a047b8b5e7?w=500&h=500&fit=crop",
+      "description": "Webcam com resolução 4K e microfone stereo",
+      "status": "activated"
     }
   ],
   "login": [

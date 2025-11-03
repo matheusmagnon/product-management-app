@@ -2,6 +2,10 @@
 
 Uma aplicação moderna de gerenciamento de produtos desenvolvida com Vue 3, TypeScript e PrimeVue. Oferece uma interface intuitiva para administrar produtos com diferentes níveis de acesso (admin e tenant).
 
+## Capa
+
+<img src="./Capa.png" /> <br/> <br/>
+
 ## 🚀 Tecnologias Utilizadas
 
 - **Vue 3** - Framework principal
